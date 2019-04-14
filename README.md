@@ -84,6 +84,7 @@
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.pdf) End-to-End Dense Video Captioning With Masked Transformer
 
 ### CVPR2019
+Coming Soon...
 
 ## Object Detection
 
