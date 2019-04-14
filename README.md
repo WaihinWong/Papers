@@ -1,9 +1,8 @@
 # Papers
 
 ## Image Captioning
-[\[CVPR2016\] Show_Attend_and_Tell](Image_Captioning/Show_Attend_and_Tell)
-
-[\[NOTES\]](Image_Captioning/Show_Attend_and_Tell) \[CVPR2017\] [Deep Reinforcement Learning-Based Image Captioning With Embedding Reward](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ren_Deep_Reinforcement_Learning-Based_CVPR_2017_paper.pdf) 
+### CVPR2017
+[\[NOTES\]](Image_Captioning/Show_Attend_and_Tell) [PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ren_Deep_Reinforcement_Learning-Based_CVPR_2017_paper.pdf) \[Deep Reinforcement Learning-Based Image Captioning With Embedding Reward\] 
 
 \[NOTES\] \[CVPR2017\] [Knowing When to Look: Adaptive Attention via a Visual Sentinel for Image Captioning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lu_Knowing_When_to_CVPR_2017_paper.pdf)
 
