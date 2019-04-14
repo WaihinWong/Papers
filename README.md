@@ -38,7 +38,7 @@
 
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yao_Incorporating_Copying_Mechanism_CVPR_2017_paper.pdf) Incorporating Copying Mechanism in Image Captioning for Learning Novel Objects
 
-\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sun_Bidirectional_Beam_Search_CVPR_2017_paper.pdf) Bidirectional Beam Search: Forward-Backward Inference in Neural Sequence Models for Fill-In-The-Blank Image Captioning
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sun_Bidirectional_Beam_Search_CVPR_2017_paper.pdf) Bidirectional Beam Search: Forward-Backward Inference in Neural Sequence Models for Fill-In-The-Blank
 
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Baraldi_Hierarchical_Boundary-Aware_Neural_CVPR_2017_paper.pdf) Hierarchical Boundary-Aware Neural Encoder for Video Captioning
 
