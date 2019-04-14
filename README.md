@@ -3,6 +3,16 @@
 ## Image Captioning
 ### CVPR2015
 ### CVPR2016
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Hendricks_Deep_Compositional_Captioning_CVPR_2016_paper.pdf) Deep Compositional Captioning: Describing Novel Object Categories Without Paired Training Data
+
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Pan_Hierarchical_Recurrent_Neural_CVPR_2016_paper.pdf) Hierarchical Recurrent Neural Encoder for Video Representation With Application to Captioning
+
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Johnson_DenseCap_Fully_Convolutional_CVPR_2016_paper.pdf) DenseCap: Fully Convolutional Localization Networks for Dense Captioning
+
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Yu_Video_Paragraph_Captioning_CVPR_2016_paper.pdf) Video Paragraph Captioning Using Hierarchical Recurrent Neural Networks
+
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Mustafa_Temporally_Coherent_4D_CVPR_2016_paper.pdf) Image Captioning With Semantic Attention
+
 ### CVPR2017
 [\[NOTES\]](Image_Captioning/Show_Attend_and_Tell) [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ren_Deep_Reinforcement_Learning-Based_CVPR_2017_paper.pdf) Deep Reinforcement Learning-Based Image Captioning With Embedding Reward
 
