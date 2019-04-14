@@ -2,6 +2,12 @@
 
 ## Image Captioning
 ### CVPR2015
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Fang_From_Captions_to_2015_CVPR_paper.pdf) From Captions to Visual Concepts and Back
+
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Chen_Minds_Eye_A_2015_CVPR_paper.pdf) Mind's Eye: A Recurrent Visual Representation for Image Caption Generation
+
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Vinyals_Show_and_Tell_2015_CVPR_paper.pdf) Show and Tell: A Neural Image Caption Generator
+
 ### CVPR2016
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Hendricks_Deep_Compositional_Captioning_CVPR_2016_paper.pdf) Deep Compositional Captioning: Describing Novel Object Categories Without Paired Training Data
 
@@ -45,7 +51,38 @@
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_End-To-End_Concept_Word_CVPR_2017_paper.pdf) End-To-End Concept Word Detection for Video Captioning, Retrieval, and Question Answering
 
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Pan_Video_Captioning_With_CVPR_2017_paper.pdf) Video Captioning With Transferred Semantic Attributes
+
 ### CVPR2018
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_GroupCap_Group-Based_Image_CVPR_2018_paper.pdf) GroupCap: Group-Based Image Captioning With Structured Relevance and Diversity Constraints
+
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Video_Captioning_via_CVPR_2018_paper.pdf) Video Captioning via Hierarchical Reinforcement Learning
+
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Aneja_Convolutional_Image_Captioning_CVPR_2018_paper.pdf) Convolutional Image Captioning
+
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cui_Learning_to_Evaluate_CVPR_2018_paper.pdf) Learning to Evaluate Image Captioning
+
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Fine-Grained_Video_Captioning_CVPR_2018_paper.pdf) Fine-Grained Video Captioning for Sports Narrative
+
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.pdf) Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering
+
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Interpretable_Video_Captioning_CVPR_2018_paper.pdf) Interpretable Video Captioning via Trajectory Structured Localization
+
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Discriminability_Objective_for_CVPR_2018_paper.pdf) Discriminability Objective for Training Descriptive Captions
+
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Bidirectional_Attentive_Fusion_CVPR_2018_paper.pdf) Bidirectional Attentive Fusion With Context Gating for Dense Video Captioning
+
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Jointly_Localizing_and_CVPR_2018_paper.pdf) Jointly Localizing and Describing Events for Dense Video Captioning
+
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_M3_Multimodal_Memory_CVPR_2018_paper.pdf) M3: Multimodal Memory Modelling for Video Captioning
+
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Reconstruction_Network_for_CVPR_2018_paper.pdf) Reconstruction Network for Video Captioning
+
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Regularizing_RNNs_for_CVPR_2018_paper.pdf) Regularizing RNNs for Caption Generation by Reconstructing the Past With the Present
+
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Mathews_SemStyle_Learning_to_CVPR_2018_paper.pdf) SemStyle: Learning to Generate Stylised Image Captions Using Unaligned Text
+
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.pdf) End-to-End Dense Video Captioning With Masked Transformer
+
 ### CVPR2019
 
 ## Object Detection
