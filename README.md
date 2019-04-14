@@ -1,13 +1,13 @@
 # Papers
 
-## Image Captioning Papers
+## Image Captioning
 [\[CVPR2016\] Show_Attend_and_Tell](Image_Captioning/Show_Attend_and_Tell)
 
 
-## Object Detection Papers
+## Object Detection
 
-## Graph Convolutional Network Papers
+## Graph Convolutional Network
 
-## Visual Question Answering Papers
+## Visual Question Answering
 
 ## Reinforcement Learning
