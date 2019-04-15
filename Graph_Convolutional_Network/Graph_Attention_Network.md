@@ -36,8 +36,10 @@
         - 模型可以直接适用于归纳学习问题，包括可以推广到未知的图。
     - 在四个数据集上取得了sota的效果，数据集包括：Cora，Citeseer，Pubmed和Protein-protein interaction。
 
-
 ## GAT Architecture
+提出了基础的关注块层，通过堆叠它可以实现对任意图的处理。并直接概述了其在神经图处理领域的理论和实践优势，和以往工作相比的局限性。
+
+
 
 ## Evaluation
 
