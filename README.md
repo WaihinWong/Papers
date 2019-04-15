@@ -142,7 +142,7 @@ None...
 
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wenhao_Jiang_Recurrent_Fusion_Network_ECCV_2018_paper.pdf) Recurrent Fusion Network for Image captioning
 
-\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tianlang_Chen_Factual_or_Emotional_ECCV_2018_paper.pdf) ``Factual'' or ``Emotional'': Stylized Image Captioning with Adaptive Learning and Attention
+\[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tianlang_Chen_Factual_or_Emotional_ECCV_2018_paper.pdf) \'Factual\' or \'Emotional\': Stylized Image Captioning with Adaptive Learning and Attention
 
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ting_Yao_Exploring_Visual_Relationship_ECCV_2018_paper.pdf) Exploring Visual Relationship for Image Captioning
 
