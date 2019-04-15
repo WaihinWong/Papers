@@ -183,11 +183,3 @@ Coming Soon...
 \[NOTES\] \[PDF\] Improving Image Captioning with Conditional Generative Adversarial Nets
 
 \[NOTES\] \[PDF\] Deliberate Residual based Attention Network for Image Captioning
-
-## Object Detection
-
-## Graph Convolutional Network
-
-## Visual Question Answering
-
-## Reinforcement Learning
