@@ -24,6 +24,11 @@
 
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Mustafa_Temporally_Coherent_4D_CVPR_2016_paper.pdf) Image Captioning With Semantic Attention
 
+### ECCV2016
+\[NOTES\] \[PDF\] Leveraging Visual Question Answering for Image-Caption Ranking
+
+\[NOTES\] \[PDF\] SPICE: Semantic Propositional Image Caption Evaluation
+
 ### AAAI2016
 None...
 
