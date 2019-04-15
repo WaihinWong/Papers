@@ -41,13 +41,27 @@
 ### GRAPH ATTENTIONAL LAYER
 1. 第一步：为了获得足够的表达能力，需要先利用一个参数共享的全连接层对所有输入节点特征进行线性转换：
 
-![](http://latex.codecogs.com/gif.latex?h_{i}=Wh_{i})
-
 2. 第二步：将节点特征进行两两组合，再用一个全连接层a将特征映射到1-d特征。
+
+![](Imgs_Graph_Attention_Network/eq1.png)
+
 3. 第三步：对所有节点进行自关注计算，得到关注系数。常用的做法是对第i个节点，计算图中所有节点的关注系数，丢失所有的结构化信息。
+
+![](Imgs_Graph_Attention_Network/eq2.png)
+
+![](Imgs_Graph_Attention_Network/eq3.png)
+
 4. 第四步：常用的做法是对第i个节点，计算图中所有节点的关注系数，丢失所有的结构化信息。因此，此处只计算每个节点的一阶邻域的关注系数。聚合特征得到每个节点的最终输出。
+
+![](Imgs_Graph_Attention_Network/eq4.png)
+
 5. 第五步（多抽头关注）：为了稳定自关注机制，可以增加多抽头关注机制，即每一层引入K个自关注，最终使用串接的方式将他们整合。
+
+![](Imgs_Graph_Attention_Network/eq5.png)
+
 6. 第六步（多抽头关注）：最后一层的话，则使用均值的方式融合每个节点的多抽头关注特征。
+
+![](Imgs_Graph_Attention_Network/eq6.png)
 
 ### COMPARISONS TO RELATED WORK
 
