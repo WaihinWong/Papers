@@ -1,5 +1,3 @@
-# Papers
-
 ## Image Captioning
 ### CVPR2015
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Fang_From_Captions_to_2015_CVPR_paper.pdf) From Captions to Visual Concepts and Back
