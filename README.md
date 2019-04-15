@@ -1,6 +1,6 @@
 # Papers
 
-## [Image Captioning](Papers/Image_Captioning/README)
+## [Image Captioning](Papers/Image_Captioning/README.md)
 
 ## Object Detection
 
