@@ -19,6 +19,9 @@
 
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Mustafa_Temporally_Coherent_4D_CVPR_2016_paper.pdf) Image Captioning With Semantic Attention
 
+### AAAI2016
+None...
+
 ### CVPR2017
 [\[NOTES\]](Image_Captioning/Show_Attend_and_Tell) [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ren_Deep_Reinforcement_Learning-Based_CVPR_2017_paper.pdf) Deep Reinforcement Learning-Based Image Captioning With Embedding Reward
 
@@ -52,6 +55,19 @@
 
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Pan_Video_Captioning_With_CVPR_2017_paper.pdf) Video Captioning With Transferred Semantic Attributes
 
+### AAAI2017
+\[NOTES\] \[PDF\] Reference	Based	LSTM for	Image	Captioning
+
+\[NOTES\] \[PDF\] Image Caption with Global-Local Attention
+
+\[NOTES\] \[PDF\] Attention	Correctness: Machine Perception vs Human	Annotations	in	Neural Image Captioning
+
+\[NOTES\] \[PDF\] Text-guided	Attention	Model	for	Image	Captioning
+
+\[NOTES\] \[PDF\] Video	Captioning	with	Listwise	Supervision
+
+\[NOTES\] \[PDF\] A	Deep Learning Approach for Arabic Caption Generation using	Roots-Words Vasu Jindal
+
 ### CVPR2018
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_GroupCap_Group-Based_Image_CVPR_2018_paper.pdf) GroupCap: Group-Based Image Captioning With Structured Relevance and Diversity Constraints
 
@@ -83,8 +99,38 @@
 
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.pdf) End-to-End Dense Video Captioning With Masked Transformer
 
+### AAAI2018
+\[NOTES\] \[PDF\] Integrating both Visual and Audio Cues for Enhanced Video Caption
+
+\[NOTES\] \[PDF\] Learning to Guide Decoding for Image Captionin
+
+\[NOTES\] \[PDF\] Stack-Captioning: Coarse-to-Fine Learning for Image Captioning
+
+\[NOTES\] \[PDF\] Temporal-difference Learning with Sampling Baseline for Image Captioning
+
 ### CVPR2019
 Coming Soon...
+
+### AAAI2019
+\[NOTES\] \[PDF\] Hierarchical Attention Network for Image Captioning
+
+\[NOTES\] \[PDF\] Learning to Compose Topic-Aware Mixture of Experts for Zero-Shot Video Captioning
+
+\[NOTES\] \[PDF\] Temporal Deformable Convolutional Encoder-Decoder Networks for Video Captioning
+
+\[NOTES\] \[PDF\] Fully Convolutional Video Captioning with Coarse-to-Fine and Inherited Attention
+
+\[NOTES\] \[PDF\] Motion Guided Spatial Attention for Video Captioning
+
+\[NOTES\] \[PDF\] Learning Object Context for Dense Captioning
+
+\[NOTES\] \[PDF\] Connecting Language to Images: A Progressive Attention-Guided Network for Simultaneous Image Captioning and Language Grounding
+
+\[NOTES\] \[PDF\] Meta Learning for Image Captioning
+
+\[NOTES\] \[PDF\] Improving Image Captioning with Conditional Generative Adversarial Nets
+
+\[NOTES\] \[PDF\] Deliberate Residual based Attention Network for Image Captioning
 
 ## Object Detection
 
