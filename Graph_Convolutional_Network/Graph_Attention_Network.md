@@ -38,7 +38,7 @@
 
 ## GAT Architecture
 这一部分提出了基础的关注块层，通过堆叠它可以实现对任意图的处理。并直接概述了其在神经图处理领域的理论和实践优势，和以往工作相比的局限性。
-### GRAPH ATTENTIONAL LAYER
+### Graph Attentional Layer
 
 ![](Imgs_Graph_Attention_Network/fig1.png)
 
@@ -66,7 +66,7 @@
 
 ![](Imgs_Graph_Attention_Network/eq6.png)
 
-### COMPARISONS TO RELATED WORK
+### Comparisons to related work
 - 计算高效：
     - 关注层可以对所有边缘进行并行处理、输出特征可以对所有节点并行处理。
     - 不需要特征分解或者类似计算量大的矩阵操作。
@@ -77,7 +77,58 @@
 - 关注机制对图中所有边缘都是共享的，因此不需要依赖知道全局图的结构或者它的所有节点。
 - 传统的方向需要指定邻域的顺序，但GAT并不需要假设顺序。
 - 与传统方法相比，我们模型使用节点特征进行相似度的计算，而不是使用节点的结构性质。
+
 ## Evaluation
+transductive learning：是特殊到特殊的学习，目的就是解决target domain的问题；未标注数据同时也是测试数据。
+inductive learning：是特殊到一般的学习，测试数据只是用来测试这个通用模型的好坏；未标注数据只是用于帮助训练而不用于测试。
+### Datasets
+![](Imgs_Graph_Attention_Network/tab1.png)
+- Transductive learning:
+    - 数据集：
+        - Cora：2708个节点（每个节点特征数位1433-d），5429个边缘，7个类别。
+        - Citeseer：3327个节点（每个节点特征数位3703-d），4732个边缘，6个类别。
+        - Pubmed：19717个节点（每个节点特征数位500-d），44338个边缘，3个类别。
+    - 节点为文件，节点的特征为英语文件的词袋表达，每个节点有一个类别标签。
+    - 边缘为文件的引用。
+    - 采用了1000个节点作为测试，500个节点作为验证。
+    
+- Inductive learning:
+    - 数据集：protein-protein interaction
+    - 具有20个图进行训练，2个图进行评价，2个图进行测试。
+    - 测试集中保留了训练时完全没有见过的图。
+    - 实验中对每个取2372个节点，每个节点特征为50-d。
+    - 一个节点可以拥有多个类别标签，共有121个类别。
+
+### Experimental setup
+- Transductive learning:
+    - 使用了两层的GAT模型。
+        - 第一层：将关注抽头数量K设置为8，输出特征维度设置为8，共为64-d；后接指数非线性单元。
+        - 第二层：每个关注抽头预测C维度特征（C为类别数），再用Softmax计算概率。
+    - 使用了L2正则化，系数为0.0005。
+    - 使用Dropout，系数为0.6。
+- Inductive learning
+    - 使用了三层的GAT模型。
+    - 前两层：将关注抽头数量K设置为4，输出特征维度设置为256，共为1024-d；后接指数非线性单元。
+    - 第三层：将关注抽头数量K设置为6，每个关注预测121个特征，求均值后输入到sigmoid进行多分类。
+
+### Results
+- Transductive learning: GCN-64\*表示隐藏层特征为64维的GCN，与GAT一致。
+![](Imgs_Graph_Attention_Network/tab2.png)
+
+- Inductive learning
+![](Imgs_Graph_Attention_Network/tab3.png)
+
+- Visualization：将Cora模型第一层输出进行2D可视化，表现出明显的集群。
+![](Imgs_Graph_Attention_Network/fig2.png)
 
 ## Conclusion
-
+- 提出了GAT网络，一种新式的在图结构数据上的卷积网络。
+- 计算高效，不需要复杂的矩阵运算。
+- 能为每个邻域节点赋予一个重要程度的权重系数。
+- 不需要预先知道整个图的结构。
+- 获取了sota的效果。
+- GAT有几个潜在的改进和扩展，可以作为未来的工作来处理：
+    - 克服第2.2小节中描述的实际问题，以便能够处理更大的批处理大小。
+    - 利用注意机制对模型的可解释性进行深入分析。
+    - 将该方法扩展到执行图分类而不是节点分类也是有意义的。
+    - 将模型扩展到包含边缘特性(可能表示节点之间的关系)，这将允许我们处理更多的问题。
