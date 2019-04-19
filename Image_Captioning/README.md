@@ -11,6 +11,9 @@
 
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_iccv_2015/papers/Ushiku_Common_Subspace_for_ICCV_2015_paper.pdf) Common Subspace for Model and Similarity: Phrase Learning for Caption Generation From Images
 
+### ICLR2015
+\[NOTES\] \[PDF\] Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)
+
 ### CVPR2016
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Hendricks_Deep_Compositional_Captioning_CVPR_2016_paper.pdf) Deep Compositional Captioning: Describing Novel Object Categories Without Paired Training Data
 
@@ -22,10 +25,18 @@
 
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Mustafa_Temporally_Coherent_4D_CVPR_2016_paper.pdf) Image Captioning With Semantic Attention
 
+### NIPS2016
+\[NOTES\] [\[PDF\]](http://papers.nips.cc/paper/6167-review-networks-for-caption-generation.pdf) Review Networks for Caption Generation
+
+\[NOTES\] [\[PDF\]](http://papers.nips.cc/paper/6528-variational-autoencoder-for-deep-learning-of-images-labels-and-captions.pdf) Variational Autoencoder for Deep Learning of Images, Labels and Captions
+
 ### ECCV2016
 \[NOTES\] \[PDF\] Leveraging Visual Question Answering for Image-Caption Ranking
 
 \[NOTES\] \[PDF\] SPICE: Semantic Propositional Image Caption Evaluation
+
+### ICLR2016
+\[NOTES\] \[PDF\] Generating Images from Captions with Attention
 
 ### AAAI2016
 None...
@@ -62,6 +73,9 @@ None...
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_End-To-End_Concept_Word_CVPR_2017_paper.pdf) End-To-End Concept Word Detection for Video Captioning, Retrieval, and Question Answering
 
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Pan_Video_Captioning_With_CVPR_2017_paper.pdf) Video Captioning With Transferred Semantic Attributes
+
+### NIPS2017
+\[NOTES\] [\[PDF\]](http://papers.nips.cc/paper/6691-contrastive-learning-for-image-captioning.pdf) Contrastive Learning for Image Captioning
 
 ### ICCV2017
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Show_Adapt_and_ICCV_2017_paper.pdf) Show, Adapt and Tell: Adversarial Training of Cross-Domain Image Captioner
@@ -128,6 +142,13 @@ None...
 
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.pdf) End-to-End Dense Video Captioning With Masked Transformer
 
+### NIPS2018
+\[NOTES\] [\[PDF\]](http://papers.nips.cc/paper/7458-partially-supervised-image-captioning.pdf) Partially-Supervised Image Captioning
+
+\[NOTES\] [\[PDF\]](http://papers.nips.cc/paper/7346-a-neural-compositional-paradigm-for-image-captioning.pdf) A Neural Compositional Paradigm for Image Captioning
+
+\[NOTES\] [\[PDF\]](http://papers.nips.cc/paper/7569-weakly-supervised-dense-event-captioning-in-videos.pdf) Weakly Supervised Dense Event Captioning in Videos
+
 ### ECCV2018
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shi_Chen_Boosted_Attention_Leveraging_ECCV_2018_paper.pdf) Boosted Attention: Leveraging Human Attention for Image Captioning
 
@@ -148,6 +169,9 @@ None...
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tianlang_Chen_Factual_or_Emotional_ECCV_2018_paper.pdf) \'Factual\' or \'Emotional\': Stylized Image Captioning with Adaptive Learning and Attention
 
 \[NOTES\] [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ting_Yao_Exploring_Visual_Relationship_ECCV_2018_paper.pdf) Exploring Visual Relationship for Image Captioning
+
+### ICLR2018
+None...
 
 ### AAAI2018
 \[NOTES\] \[PDF\] Integrating both Visual and Audio Cues for Enhanced Video Caption
